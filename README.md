@@ -1,5 +1,6 @@
 # LeetCode
- Welcome to my LeetCode solutions repository. This repository contains my solutions to various coding problems on LeetCode, aimed at improving my problem-solving skills and coding proficiency. The repository includes: 
+ Welcome to my LeetCode solutions repository. This repository contains my solutions to various coding problems on LeetCode, aimed at improving my problem-solving skills and coding proficiency.
+ The repository includes: 
 <br>
  Solutions: Organized by problem category and difficulty, each solution is provided with clear and efficient code. 
  Explanations: Detailed comments and explanations accompanying each solution to elucidate the approach and logic used. 
